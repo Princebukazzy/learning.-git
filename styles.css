@@ -1,0 +1,154 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background: #3A3B37;
+}
+#bodyarea{
+    min-height: 1000px
+}
+
+
+#head{
+    text-align: center;
+    box-shadow: 2px 2px 5px black;	
+}
+p{
+    color:aqua;
+}
+
+
+h1{
+    color:goldenrod;
+    font-family: sans-serif;     
+}
+#menus{
+    text-align: center;
+    font-family: sans-serif;
+    padding: 5px
+}
+.menu{
+    padding-left: 10px;
+    padding-right: 10px
+    
+}
+h2{
+    color:aqua;
+    font-family:sans-serif
+        
+}
+
+}
+.side{
+    background-color: #3A3B37;
+    box-shadow: 3px 3px 8px black;
+   
+}
+ul li{
+    padding: 5px
+}
+a{
+    color:aqua
+}
+a:hover{
+    text-decoration: underline;
+    color:goldenrod
+}
+
+}
+#id{
+    padding-left: 20px;
+}
+#row{
+    border: 1px solid black;
+    box-shadow: 2px 2px 5px black;
+}
+.rows{
+    width:400px;
+    height:200px;
+   
+    
+}
+.box{
+    padding-top:100px;
+    padding-left: 200px;
+    
+
+}
+
+.box button{
+    padding: 5px;
+    margin-left: 5px;   
+    box-shadow: 2px 2px 5px black
+        
+}
+.box button:hover{
+    color:goldenrod
+}
+#top{
+    text-align: center;
+    margin-top: 40px;
+    padding-top: 20px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width:600px;
+    border: 1px solid #ccc;
+}
+#header{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: green;
+}
+#socials{
+    background-color: crimson;
+    padding:30px;
+}
+.social{
+    padding:5px;
+    padding-left: 30px;
+    width:40px;
+    height:40px;
+    padding-right: 30px
+}
+#details{
+    padding-top: 30px;
+    padding-bottom: 70px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.detail{
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    margin-bottom:10px;
+    border:0;
+    border-bottom: 1px solid black;
+}
+.finish{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 18px;
+    font-style: oblique;
+    font-weight: bold;
+    background-color: dimgrey;
+    border:none;
+    color: green;
+}
+
+#foot{
+    text-align: center;
+    grid-row-gap: 30px
+}
+#foot a{
+   
+}
+
+#footerarea{
+    background-color: chocolate;
+    text-align: center;
+    color:darkred;
+
+    
+}
+
